@@ -21,11 +21,11 @@ footer-links:
   email: evan.kranzler@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: theelk801
   instagram:
-  linkedin:
+  linkedin: evan-kranzler
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: anything here # just type anything here for a working RSS icon
   twitter: theelk801
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: theelk801.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
